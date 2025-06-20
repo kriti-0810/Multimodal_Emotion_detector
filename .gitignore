@@ -1,0 +1,25 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore virtual environment
+emotion_env/
+
+# Ignore trained models
+*.pkl
+*.h5
+*.keras
+models/
+
+# Ignore datasets
+datasets/
+
+# Ignore audio
+*.wav
+
+# Ignore Streamlit config
+.streamlit/
+
+# Ignore temporary files
+*.log
+*.tmp
+.DS_Store
