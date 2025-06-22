@@ -5,10 +5,10 @@ __pycache__/
 emotion_env/
 
 # Ignore trained models
-*.pkl
-*.h5
-*.keras
-models/
+#*.pkl
+#*.h5
+#*.keras
+#models/
 
 # Ignore datasets
 datasets/
